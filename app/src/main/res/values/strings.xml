@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musix Player</string>
+    <string name="player_interface_title">Musix Player</string>
+    <string name="title_activity_main">MusiK</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+</resources>
